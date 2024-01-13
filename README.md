@@ -1,4 +1,4 @@
-# FactoryBot vs Fixtures
+# Factories or Fixtures
 
 Why not both? This is a demo application to illustrate the performance differences between using fixtures and factories. 
 
