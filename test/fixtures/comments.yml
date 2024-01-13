@@ -1,0 +1,4 @@
+default:
+  text: text
+  user: default
+  post: default
